@@ -1,4 +1,6 @@
-# 实现一个简单版本的mini-vue
+# 说明
+
+实现一个简单版本的mini-vue
 
 ## script 命令
 
